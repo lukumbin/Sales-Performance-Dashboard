@@ -1,7 +1,7 @@
 # Sales Performance Dashboard (Power BI + SQL)
 ## 📊 Overview
 This project analyzes company sales data to track revenue, profit, and performance trends by region, category, and product.  
-It demonstrates SQL querying, Power BI dashboard design, and data modelling skills.
+datasource: kaggle
 
 ## 🧮 Tools & Skills
 - Power BI (data modelling, DAX, visualization)
