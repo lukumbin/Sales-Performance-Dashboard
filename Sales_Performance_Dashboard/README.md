@@ -1,7 +1,7 @@
 # Sales Performance Dashboard (Power BI + SQL)
 ## 📊 Overview
 This project analyzes company sales data to track revenue, profit, and performance trends by region, category, and product.  
-datasource: kaggle
+Datasource: kaggle
 
 ## 🧮 Tools & Skills
 - Power BI (data modelling, DAX, visualization)
