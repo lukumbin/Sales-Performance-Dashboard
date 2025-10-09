@@ -1,0 +1,401 @@
+Order_ID,Order_Date,Ship_Date,Ship_Mode,Customer_ID,Customer_Name,Segment,Country,City,State,Postal_Code,Region,Product_ID,Category,Sub_Category,Product_Name,Sales,Quantity,Discount,Profit
+ORD-1001,2022-11-16,2022-11-20,Standard,CUST-459,Customer 10,Corporate,United States,Chicago,AZ,90471,Central,PROD-7744,Furniture,Tables,Chair,1189.76,7,0.15,364.73
+ORD-1002,2021-03-29,2021-04-07,Standard,CUST-877,Customer 149,Consumer,United States,Houston,NY,57954,South,PROD-1755,Office Supplies,Storage,Paper,965.15,8,0.0,34.43
+ORD-1003,2023-08-20,2023-08-25,Standard,CUST-251,Customer 164,Home Office,United States,Houston,IL,27591,West,PROD-9994,Furniture,Accessories,Laptop,295.27,6,0.05,108.31
+ORD-1004,2022-07-05,2022-07-10,Standard,CUST-717,Customer 43,Home Office,United States,New York,CA,38647,East,PROD-9622,Technology,Storage,Desk,452.42,4,0.05,14.43
+ORD-1005,2023-06-28,2023-07-03,Standard,CUST-874,Customer 197,Consumer,United States,Houston,AZ,17012,West,PROD-4918,Furniture,Storage,Binder,1144.69,6,0.05,72.3
+ORD-1006,2022-07-15,2022-07-16,Standard,CUST-195,Customer 198,Home Office,United States,New York,CA,72756,Central,PROD-3435,Technology,Tables,Desk,284.98,8,0.05,-23.38
+ORD-1007,2021-07-21,2021-07-29,Standard,CUST-799,Customer 131,Corporate,United States,Chicago,TX,24254,South,PROD-8316,Office Supplies,Tables,Table,49.78,2,0.0,3.24
+ORD-1008,2023-02-18,2023-02-21,Standard,CUST-407,Customer 81,Consumer,United States,New York,TX,89128,East,PROD-1770,Technology,Tables,Desk,562.66,9,0.0,-109.37
+ORD-1009,2021-01-20,2021-01-29,Standard,CUST-280,Customer 68,Consumer,United States,New York,AZ,80381,South,PROD-6116,Technology,Computers,Table,798.24,9,0.0,269.5
+ORD-1010,2021-06-02,2021-06-03,Standard,CUST-989,Customer 119,Corporate,United States,Houston,CA,20088,West,PROD-6627,Office Supplies,Computers,Binder,633.3,9,0.0,240.18
+ORD-1011,2022-08-15,2022-08-22,Standard,CUST-211,Customer 94,Corporate,United States,Los Angeles,AZ,25741,West,PROD-6103,Technology,Phones,Phone,1500.85,4,0.1,490.88
+ORD-1012,2022-12-03,2022-12-12,Standard,CUST-312,Customer 139,Home Office,United States,Houston,AZ,84498,South,PROD-5051,Office Supplies,Computers,Paper,1078.67,5,0.05,74.16
+ORD-1013,2022-06-26,2022-07-04,Standard,CUST-914,Customer 179,Consumer,United States,Houston,CA,92119,South,PROD-6181,Office Supplies,Chairs,Printer,288.55,3,0.0,-51.96
+ORD-1014,2021-02-03,2021-02-04,Standard,CUST-559,Customer 35,Corporate,United States,New York,NY,36813,East,PROD-4419,Furniture,Phones,Laptop,684.58,1,0.05,-63.19
+ORD-1015,2021-11-20,2021-11-22,Standard,CUST-389,Customer 147,Corporate,United States,Phoenix,IL,32597,East,PROD-5652,Office Supplies,Computers,Printer,1231.79,6,0.15,149.51
+ORD-1016,2022-07-06,2022-07-13,Standard,CUST-374,Customer 93,Corporate,United States,Los Angeles,CA,54889,Central,PROD-1329,Furniture,Storage,Chair,125.48,1,0.1,7.61
+ORD-1017,2022-07-30,2022-08-08,Standard,CUST-728,Customer 192,Consumer,United States,New York,TX,37741,South,PROD-3798,Furniture,Storage,Pen,1813.77,8,0.15,-213.42
+ORD-1018,2021-01-14,2021-01-22,Standard,CUST-932,Customer 165,Corporate,United States,New York,IL,87582,Central,PROD-8444,Technology,Phones,Phone,1771.82,4,0.1,368.41
+ORD-1019,2022-08-19,2022-08-25,Standard,CUST-356,Customer 137,Corporate,United States,Houston,AZ,49335,West,PROD-3989,Technology,Tables,Laptop,315.85,2,0.15,75.26
+ORD-1020,2023-03-31,2023-04-03,Standard,CUST-663,Customer 159,Corporate,United States,Chicago,TX,28231,West,PROD-2020,Technology,Computers,Binder,931.67,2,0.1,283.47
+ORD-1021,2022-05-06,2022-05-07,Standard,CUST-766,Customer 125,Home Office,United States,Los Angeles,IL,83929,West,PROD-2805,Office Supplies,Accessories,Pen,176.01,8,0.0,23.11
+ORD-1022,2022-06-19,2022-06-23,Standard,CUST-874,Customer 195,Consumer,United States,New York,NY,46589,South,PROD-9472,Furniture,Phones,Chair,371.45,8,0.1,39.91
+ORD-1023,2022-07-21,2022-07-29,Standard,CUST-511,Customer 30,Corporate,United States,Houston,TX,80486,Central,PROD-3665,Office Supplies,Chairs,Phone,593.11,1,0.15,183.49
+ORD-1024,2022-01-12,2022-01-13,Standard,CUST-359,Customer 127,Home Office,United States,Los Angeles,AZ,48212,West,PROD-1112,Technology,Computers,Pen,862.17,5,0.1,-18.36
+ORD-1025,2021-09-23,2021-09-27,Standard,CUST-944,Customer 19,Corporate,United States,Chicago,IL,89073,South,PROD-6763,Furniture,Phones,Chair,1552.69,2,0.0,552.33
+ORD-1026,2023-03-19,2023-03-25,Standard,CUST-234,Customer 4,Home Office,United States,Los Angeles,NY,23729,West,PROD-7980,Technology,Accessories,Pen,1622.74,4,0.05,96.21
+ORD-1027,2022-03-14,2022-03-23,Standard,CUST-346,Customer 85,Corporate,United States,Houston,AZ,62547,Central,PROD-9020,Furniture,Computers,Table,917.72,4,0.15,192.69
+ORD-1028,2021-05-30,2021-05-31,Standard,CUST-460,Customer 180,Home Office,United States,Los Angeles,IL,28931,Central,PROD-3683,Furniture,Storage,Desk,552.92,4,0.1,12.45
+ORD-1029,2023-05-16,2023-05-21,Standard,CUST-541,Customer 94,Corporate,United States,Houston,IL,75940,East,PROD-1375,Furniture,Chairs,Laptop,955.83,2,0.1,258.25
+ORD-1030,2021-07-25,2021-07-29,Standard,CUST-685,Customer 184,Home Office,United States,Phoenix,IL,38250,South,PROD-2838,Furniture,Computers,Pen,919.25,1,0.1,302.64
+ORD-1031,2023-08-30,2023-09-05,Standard,CUST-514,Customer 16,Corporate,United States,Houston,IL,38039,West,PROD-3881,Office Supplies,Tables,Printer,623.49,6,0.15,-37.58
+ORD-1032,2021-09-04,2021-09-07,Standard,CUST-773,Customer 13,Consumer,United States,Los Angeles,NY,97496,South,PROD-3173,Technology,Accessories,Pen,1270.88,9,0.05,469.69
+ORD-1033,2022-03-25,2022-03-29,Standard,CUST-800,Customer 166,Consumer,United States,Phoenix,AZ,31107,Central,PROD-5930,Furniture,Phones,Phone,1859.29,6,0.15,-260.73
+ORD-1034,2022-12-11,2022-12-17,Standard,CUST-607,Customer 160,Corporate,United States,Houston,TX,57354,West,PROD-7910,Office Supplies,Computers,Monitor,511.36,7,0.0,-34.42
+ORD-1035,2021-06-03,2021-06-05,Standard,CUST-489,Customer 199,Consumer,United States,Chicago,IL,41739,Central,PROD-8246,Technology,Accessories,Binder,1281.14,6,0.15,120.66
+ORD-1036,2022-12-01,2022-12-05,Standard,CUST-225,Customer 83,Corporate,United States,Chicago,AZ,66337,East,PROD-9639,Technology,Accessories,Paper,1039.44,6,0.0,56.6
+ORD-1037,2021-06-14,2021-06-16,Standard,CUST-965,Customer 136,Corporate,United States,Houston,NY,53647,East,PROD-9529,Office Supplies,Phones,Phone,1875.2,7,0.0,-85.62
+ORD-1038,2023-03-14,2023-03-17,Standard,CUST-975,Customer 53,Corporate,United States,New York,AZ,71302,East,PROD-5242,Furniture,Storage,Desk,1464.11,6,0.0,481.74
+ORD-1039,2022-05-09,2022-05-11,Standard,CUST-171,Customer 91,Corporate,United States,Houston,IL,98554,East,PROD-7007,Furniture,Accessories,Printer,1479.4,8,0.0,197.08
+ORD-1040,2021-11-01,2021-11-06,Standard,CUST-976,Customer 90,Consumer,United States,Phoenix,IL,67961,Central,PROD-5108,Furniture,Chairs,Monitor,313.19,8,0.0,15.81
+ORD-1041,2022-01-14,2022-01-17,Standard,CUST-444,Customer 21,Home Office,United States,Phoenix,NY,64546,East,PROD-8719,Technology,Storage,Pen,819.4,3,0.15,107.54
+ORD-1042,2021-06-22,2021-06-26,Standard,CUST-831,Customer 100,Corporate,United States,Houston,IL,12098,Central,PROD-5966,Furniture,Storage,Phone,673.68,1,0.0,238.82
+ORD-1043,2022-01-01,2022-01-08,Standard,CUST-645,Customer 152,Consumer,United States,Los Angeles,IL,54038,East,PROD-6382,Technology,Storage,Printer,1423.95,6,0.1,-109.71
+ORD-1044,2022-01-06,2022-01-10,Standard,CUST-489,Customer 117,Corporate,United States,Houston,CA,75323,South,PROD-7732,Office Supplies,Accessories,Printer,1120.55,6,0.1,18.7
+ORD-1045,2022-09-05,2022-09-11,Standard,CUST-243,Customer 192,Corporate,United States,Houston,CA,22383,West,PROD-3544,Furniture,Accessories,Desk,1204.78,8,0.1,184.63
+ORD-1046,2022-02-08,2022-02-13,Standard,CUST-873,Customer 93,Consumer,United States,Chicago,CA,44790,South,PROD-4252,Furniture,Computers,Desk,190.86,8,0.15,-12.09
+ORD-1047,2023-04-23,2023-04-24,Standard,CUST-980,Customer 85,Consumer,United States,New York,NY,98624,East,PROD-9121,Office Supplies,Phones,Phone,1088.84,2,0.0,-138.77
+ORD-1048,2023-07-02,2023-07-10,Standard,CUST-609,Customer 23,Home Office,United States,New York,TX,25919,South,PROD-1626,Technology,Tables,Printer,1816.67,7,0.05,-188.68
+ORD-1049,2022-11-07,2022-11-13,Standard,CUST-168,Customer 182,Corporate,United States,Houston,TX,54296,West,PROD-2745,Office Supplies,Phones,Laptop,1433.26,2,0.05,163.11
+ORD-1050,2021-06-07,2021-06-16,Standard,CUST-762,Customer 31,Consumer,United States,Phoenix,IL,94554,South,PROD-7460,Office Supplies,Tables,Table,408.73,9,0.0,145.27
+ORD-1051,2021-07-29,2021-07-31,Standard,CUST-706,Customer 166,Home Office,United States,New York,NY,17011,South,PROD-8837,Furniture,Chairs,Binder,1317.47,9,0.0,252.14
+ORD-1052,2021-03-29,2021-04-05,Standard,CUST-316,Customer 102,Corporate,United States,Los Angeles,NY,46720,South,PROD-2134,Office Supplies,Storage,Phone,1914.3,2,0.15,-252.51
+ORD-1053,2021-04-30,2021-05-07,Standard,CUST-708,Customer 101,Home Office,United States,Chicago,NY,36885,Central,PROD-8078,Furniture,Chairs,Monitor,1882.16,5,0.05,-317.13
+ORD-1054,2021-09-19,2021-09-24,Standard,CUST-470,Customer 10,Consumer,United States,Los Angeles,NY,85358,Central,PROD-9019,Office Supplies,Storage,Laptop,771.06,2,0.1,-109.54
+ORD-1055,2023-08-25,2023-08-27,Standard,CUST-713,Customer 184,Consumer,United States,Phoenix,IL,81777,Central,PROD-6131,Office Supplies,Chairs,Chair,549.79,7,0.05,23.24
+ORD-1056,2023-05-07,2023-05-15,Standard,CUST-830,Customer 4,Home Office,United States,Chicago,IL,76181,East,PROD-5039,Technology,Storage,Laptop,816.02,8,0.1,35.27
+ORD-1057,2021-09-21,2021-09-29,Standard,CUST-725,Customer 140,Corporate,United States,Chicago,NY,12555,West,PROD-5600,Furniture,Computers,Paper,1735.66,7,0.05,-316.73
+ORD-1058,2021-12-16,2021-12-20,Standard,CUST-265,Customer 136,Corporate,United States,Houston,CA,17228,South,PROD-9295,Office Supplies,Tables,Monitor,453.5,1,0.05,-68.79
+ORD-1059,2022-12-30,2023-01-05,Standard,CUST-949,Customer 184,Home Office,United States,New York,AZ,87525,Central,PROD-3927,Office Supplies,Phones,Table,671.06,8,0.15,152.84
+ORD-1060,2023-05-09,2023-05-10,Standard,CUST-357,Customer 17,Corporate,United States,Los Angeles,AZ,51768,West,PROD-2130,Technology,Accessories,Binder,1837.0,5,0.15,271.52
+ORD-1061,2022-10-25,2022-10-29,Standard,CUST-883,Customer 52,Corporate,United States,Phoenix,IL,64772,East,PROD-2731,Furniture,Accessories,Chair,797.13,3,0.0,-47.95
+ORD-1062,2021-12-30,2022-01-06,Standard,CUST-883,Customer 144,Consumer,United States,Houston,NY,14409,Central,PROD-3317,Technology,Phones,Binder,1674.36,8,0.0,82.32
+ORD-1063,2021-08-24,2021-09-01,Standard,CUST-689,Customer 158,Home Office,United States,Chicago,AZ,80577,South,PROD-8888,Office Supplies,Tables,Desk,1338.75,3,0.15,191.58
+ORD-1064,2021-10-01,2021-10-08,Standard,CUST-179,Customer 75,Home Office,United States,New York,IL,51333,West,PROD-3474,Furniture,Storage,Table,911.66,8,0.15,87.86
+ORD-1065,2023-02-03,2023-02-05,Standard,CUST-871,Customer 102,Home Office,United States,Houston,TX,62701,West,PROD-7835,Furniture,Chairs,Binder,819.77,1,0.0,267.78
+ORD-1066,2022-02-06,2022-02-07,Standard,CUST-885,Customer 11,Corporate,United States,Houston,CA,27181,South,PROD-5560,Technology,Phones,Laptop,1283.01,7,0.0,57.71
+ORD-1067,2021-03-23,2021-03-31,Standard,CUST-383,Customer 52,Home Office,United States,Houston,NY,95304,East,PROD-3015,Technology,Tables,Chair,474.02,1,0.0,-71.66
+ORD-1068,2022-07-26,2022-07-27,Standard,CUST-824,Customer 76,Corporate,United States,New York,NY,67556,East,PROD-5199,Technology,Phones,Table,1208.44,8,0.05,276.28
+ORD-1069,2021-05-13,2021-05-19,Standard,CUST-834,Customer 118,Home Office,United States,Houston,NY,64833,East,PROD-5361,Technology,Chairs,Desk,918.81,2,0.0,270.94
+ORD-1070,2022-12-12,2022-12-19,Standard,CUST-136,Customer 31,Home Office,United States,Houston,AZ,26419,Central,PROD-7173,Furniture,Accessories,Chair,1946.09,4,0.05,629.33
+ORD-1071,2021-06-05,2021-06-12,Standard,CUST-511,Customer 57,Corporate,United States,Chicago,IL,94509,East,PROD-1957,Technology,Accessories,Printer,1847.38,1,0.0,-55.97
+ORD-1072,2023-05-19,2023-05-22,Standard,CUST-934,Customer 148,Consumer,United States,Chicago,AZ,79278,South,PROD-6709,Office Supplies,Tables,Paper,1070.01,2,0.0,-4.53
+ORD-1073,2021-09-15,2021-09-18,Standard,CUST-832,Customer 66,Corporate,United States,Houston,CA,39092,South,PROD-5745,Technology,Computers,Monitor,1560.57,3,0.1,432.83
+ORD-1074,2023-03-09,2023-03-10,Standard,CUST-635,Customer 141,Corporate,United States,New York,IL,16932,South,PROD-3988,Technology,Tables,Monitor,1259.19,9,0.15,51.45
+ORD-1075,2023-03-07,2023-03-11,Standard,CUST-642,Customer 8,Consumer,United States,New York,IL,82851,East,PROD-7119,Furniture,Computers,Binder,1452.74,3,0.15,-147.17
+ORD-1076,2021-03-02,2021-03-07,Standard,CUST-204,Customer 127,Consumer,United States,Phoenix,IL,88772,Central,PROD-8392,Technology,Phones,Binder,636.0,4,0.15,123.63
+ORD-1077,2022-07-22,2022-07-24,Standard,CUST-827,Customer 156,Corporate,United States,New York,CA,63479,East,PROD-1881,Technology,Phones,Laptop,672.81,2,0.0,-94.3
+ORD-1078,2022-12-27,2023-01-03,Standard,CUST-583,Customer 49,Corporate,United States,Los Angeles,TX,69463,East,PROD-1129,Office Supplies,Phones,Printer,1414.36,1,0.15,52.53
+ORD-1079,2023-02-27,2023-02-28,Standard,CUST-334,Customer 122,Consumer,United States,Houston,NY,75908,West,PROD-4168,Technology,Storage,Monitor,422.52,6,0.0,84.07
+ORD-1080,2021-01-03,2021-01-07,Standard,CUST-896,Customer 119,Corporate,United States,New York,IL,58661,South,PROD-6999,Office Supplies,Chairs,Printer,987.49,9,0.15,-154.63
+ORD-1081,2021-05-28,2021-06-01,Standard,CUST-837,Customer 49,Corporate,United States,New York,NY,17640,Central,PROD-6370,Office Supplies,Tables,Paper,1186.22,2,0.05,418.77
+ORD-1082,2023-09-20,2023-09-26,Standard,CUST-432,Customer 62,Home Office,United States,New York,TX,15785,Central,PROD-1877,Office Supplies,Computers,Chair,34.22,7,0.0,-0.22
+ORD-1083,2022-12-16,2022-12-24,Standard,CUST-598,Customer 179,Home Office,United States,Chicago,TX,86731,Central,PROD-6947,Technology,Storage,Desk,1862.37,9,0.05,237.39
+ORD-1084,2021-02-26,2021-03-06,Standard,CUST-408,Customer 33,Home Office,United States,Chicago,TX,80848,South,PROD-3202,Furniture,Computers,Pen,1592.03,2,0.0,-287.5
+ORD-1085,2021-11-09,2021-11-14,Standard,CUST-515,Customer 95,Corporate,United States,Phoenix,NY,10739,West,PROD-6390,Office Supplies,Accessories,Pen,985.94,2,0.1,-87.54
+ORD-1086,2023-03-26,2023-03-29,Standard,CUST-885,Customer 144,Corporate,United States,New York,IL,29549,East,PROD-6330,Office Supplies,Tables,Pen,905.92,5,0.05,297.06
+ORD-1087,2021-03-31,2021-04-04,Standard,CUST-690,Customer 147,Corporate,United States,New York,TX,37428,Central,PROD-6612,Technology,Computers,Paper,141.75,2,0.15,-27.17
+ORD-1088,2022-04-27,2022-05-05,Standard,CUST-966,Customer 72,Home Office,United States,New York,CA,94056,West,PROD-7445,Office Supplies,Tables,Pen,466.26,1,0.0,98.5
+ORD-1089,2021-01-05,2021-01-07,Standard,CUST-494,Customer 156,Home Office,United States,Phoenix,IL,27611,South,PROD-8387,Technology,Storage,Laptop,65.68,8,0.05,-5.83
+ORD-1090,2021-05-11,2021-05-20,Standard,CUST-210,Customer 199,Home Office,United States,Houston,CA,61917,West,PROD-7462,Office Supplies,Storage,Binder,1768.72,9,0.15,63.28
+ORD-1091,2023-03-20,2023-03-25,Standard,CUST-398,Customer 139,Consumer,United States,Los Angeles,NY,54711,Central,PROD-2506,Office Supplies,Accessories,Phone,1109.35,2,0.1,-24.88
+ORD-1092,2021-08-20,2021-08-23,Standard,CUST-644,Customer 179,Home Office,United States,Houston,AZ,28583,South,PROD-3170,Technology,Chairs,Chair,1792.07,6,0.05,-134.03
+ORD-1093,2021-09-23,2021-10-01,Standard,CUST-935,Customer 190,Home Office,United States,Phoenix,AZ,18211,South,PROD-4781,Furniture,Computers,Laptop,229.94,1,0.0,41.04
+ORD-1094,2021-07-05,2021-07-14,Standard,CUST-930,Customer 93,Corporate,United States,Chicago,AZ,58223,West,PROD-1907,Technology,Storage,Chair,1154.37,8,0.15,-53.03
+ORD-1095,2023-05-21,2023-05-30,Standard,CUST-240,Customer 60,Home Office,United States,Phoenix,AZ,57170,South,PROD-8533,Furniture,Computers,Binder,371.14,7,0.05,-37.2
+ORD-1096,2021-08-06,2021-08-10,Standard,CUST-638,Customer 104,Home Office,United States,New York,CA,99955,Central,PROD-7385,Technology,Tables,Pen,20.58,8,0.05,-3.37
+ORD-1097,2022-02-12,2022-02-19,Standard,CUST-687,Customer 118,Consumer,United States,Houston,NY,95329,East,PROD-7110,Technology,Chairs,Monitor,1967.87,2,0.0,429.78
+ORD-1098,2022-05-13,2022-05-22,Standard,CUST-547,Customer 143,Consumer,United States,Los Angeles,CA,92293,East,PROD-7180,Technology,Chairs,Pen,1700.27,3,0.0,525.78
+ORD-1099,2023-07-10,2023-07-15,Standard,CUST-192,Customer 15,Consumer,United States,Houston,TX,45025,South,PROD-6749,Office Supplies,Phones,Binder,1125.3,8,0.1,226.11
+ORD-1100,2022-10-22,2022-10-25,Standard,CUST-562,Customer 90,Corporate,United States,New York,NY,24920,Central,PROD-1986,Furniture,Storage,Pen,1549.58,5,0.1,291.83
+ORD-1101,2021-06-27,2021-06-28,Standard,CUST-686,Customer 140,Corporate,United States,Chicago,IL,45569,South,PROD-9962,Office Supplies,Storage,Paper,1139.71,5,0.05,444.26
+ORD-1102,2021-04-02,2021-04-09,Standard,CUST-360,Customer 4,Corporate,United States,New York,NY,34726,West,PROD-5738,Furniture,Accessories,Table,563.87,7,0.0,-65.7
+ORD-1103,2023-01-08,2023-01-12,Standard,CUST-303,Customer 166,Home Office,United States,Phoenix,IL,65483,South,PROD-1310,Office Supplies,Storage,Paper,1612.87,3,0.15,244.62
+ORD-1104,2021-03-25,2021-04-03,Standard,CUST-415,Customer 173,Home Office,United States,New York,TX,34992,Central,PROD-6774,Furniture,Computers,Chair,78.15,7,0.15,21.67
+ORD-1105,2022-01-16,2022-01-21,Standard,CUST-302,Customer 86,Home Office,United States,Houston,NY,62410,West,PROD-6339,Technology,Computers,Phone,724.6,5,0.1,241.02
+ORD-1106,2023-09-22,2023-09-27,Standard,CUST-951,Customer 173,Corporate,United States,New York,NY,73160,East,PROD-1469,Technology,Chairs,Pen,462.04,5,0.0,-18.4
+ORD-1107,2022-05-16,2022-05-19,Standard,CUST-521,Customer 88,Home Office,United States,Los Angeles,TX,26495,Central,PROD-7992,Technology,Tables,Printer,1734.25,4,0.05,376.05
+ORD-1108,2023-03-06,2023-03-12,Standard,CUST-640,Customer 128,Home Office,United States,Chicago,IL,65945,South,PROD-5835,Furniture,Storage,Phone,1246.07,6,0.05,-176.09
+ORD-1109,2023-04-10,2023-04-14,Standard,CUST-269,Customer 152,Corporate,United States,New York,AZ,75815,Central,PROD-4912,Office Supplies,Computers,Laptop,1069.33,2,0.1,17.82
+ORD-1110,2023-09-25,2023-10-02,Standard,CUST-833,Customer 68,Corporate,United States,New York,TX,41002,East,PROD-5329,Office Supplies,Storage,Chair,1120.39,8,0.05,436.35
+ORD-1111,2021-10-27,2021-11-04,Standard,CUST-576,Customer 15,Home Office,United States,New York,TX,75983,East,PROD-1043,Technology,Phones,Binder,63.89,3,0.0,-9.55
+ORD-1112,2023-04-14,2023-04-23,Standard,CUST-892,Customer 87,Corporate,United States,Phoenix,IL,31729,Central,PROD-9442,Technology,Tables,Binder,1622.5,6,0.15,237.78
+ORD-1113,2022-10-28,2022-11-01,Standard,CUST-984,Customer 84,Corporate,United States,Los Angeles,AZ,54761,South,PROD-4004,Office Supplies,Phones,Printer,1588.63,1,0.05,311.34
+ORD-1114,2022-05-04,2022-05-12,Standard,CUST-424,Customer 25,Home Office,United States,Los Angeles,IL,64015,West,PROD-3109,Furniture,Storage,Binder,1747.91,9,0.0,116.56
+ORD-1115,2021-06-02,2021-06-07,Standard,CUST-377,Customer 120,Home Office,United States,Los Angeles,NY,16949,South,PROD-2400,Furniture,Storage,Printer,1288.05,7,0.05,332.73
+ORD-1116,2023-02-25,2023-02-27,Standard,CUST-333,Customer 111,Consumer,United States,Chicago,TX,75664,East,PROD-2260,Office Supplies,Accessories,Chair,60.13,3,0.1,20.4
+ORD-1117,2021-08-17,2021-08-26,Standard,CUST-713,Customer 146,Home Office,United States,Los Angeles,CA,60925,East,PROD-2260,Office Supplies,Computers,Printer,99.41,3,0.15,31.44
+ORD-1118,2023-06-25,2023-06-30,Standard,CUST-597,Customer 135,Home Office,United States,Phoenix,NY,32728,West,PROD-1505,Office Supplies,Phones,Chair,1891.38,2,0.0,141.29
+ORD-1119,2021-12-11,2021-12-14,Standard,CUST-755,Customer 186,Home Office,United States,Phoenix,AZ,52919,Central,PROD-5253,Office Supplies,Storage,Pen,1672.94,8,0.15,150.69
+ORD-1120,2021-10-29,2021-11-06,Standard,CUST-233,Customer 159,Home Office,United States,Phoenix,TX,51504,East,PROD-8339,Office Supplies,Phones,Binder,1805.24,9,0.15,135.81
+ORD-1121,2021-04-08,2021-04-15,Standard,CUST-957,Customer 33,Home Office,United States,New York,TX,30043,South,PROD-5564,Furniture,Phones,Chair,649.73,5,0.05,54.91
+ORD-1122,2022-12-05,2022-12-14,Standard,CUST-190,Customer 27,Corporate,United States,Chicago,CA,83528,South,PROD-9393,Furniture,Accessories,Binder,1275.38,8,0.05,114.24
+ORD-1123,2022-08-03,2022-08-09,Standard,CUST-105,Customer 98,Consumer,United States,Los Angeles,NY,48210,Central,PROD-6309,Technology,Storage,Laptop,1946.46,5,0.1,-214.7
+ORD-1124,2022-09-25,2022-09-28,Standard,CUST-850,Customer 52,Consumer,United States,Los Angeles,TX,80406,East,PROD-2099,Furniture,Accessories,Laptop,403.99,4,0.1,17.32
+ORD-1125,2022-03-30,2022-03-31,Standard,CUST-101,Customer 91,Consumer,United States,Houston,NY,28281,East,PROD-1026,Office Supplies,Chairs,Desk,1817.41,9,0.1,-199.53
+ORD-1126,2021-01-18,2021-01-26,Standard,CUST-382,Customer 18,Consumer,United States,Houston,AZ,29961,West,PROD-4770,Technology,Computers,Binder,1034.1,9,0.1,192.75
+ORD-1127,2022-09-28,2022-10-03,Standard,CUST-577,Customer 120,Consumer,United States,Phoenix,CA,12688,Central,PROD-1403,Technology,Storage,Monitor,834.77,9,0.1,-103.09
+ORD-1128,2022-10-08,2022-10-15,Standard,CUST-445,Customer 146,Consumer,United States,Chicago,IL,60762,Central,PROD-7724,Office Supplies,Storage,Phone,465.53,8,0.15,6.89
+ORD-1129,2023-04-03,2023-04-06,Standard,CUST-180,Customer 29,Corporate,United States,New York,CA,73216,West,PROD-4422,Office Supplies,Storage,Table,1958.23,3,0.0,664.42
+ORD-1130,2023-06-17,2023-06-18,Standard,CUST-383,Customer 125,Home Office,United States,New York,CA,44619,West,PROD-7516,Furniture,Phones,Monitor,1430.3,2,0.1,499.52
+ORD-1131,2022-05-27,2022-05-29,Standard,CUST-776,Customer 69,Corporate,United States,Los Angeles,NY,98710,Central,PROD-9802,Furniture,Accessories,Monitor,1305.32,9,0.15,386.88
+ORD-1132,2023-07-15,2023-07-20,Standard,CUST-847,Customer 188,Home Office,United States,New York,AZ,73071,West,PROD-4877,Furniture,Tables,Chair,1396.69,5,0.15,-88.75
+ORD-1133,2023-08-15,2023-08-16,Standard,CUST-625,Customer 20,Corporate,United States,Phoenix,AZ,57155,South,PROD-4576,Technology,Tables,Monitor,95.1,5,0.1,-19.0
+ORD-1134,2021-05-13,2021-05-19,Standard,CUST-354,Customer 45,Corporate,United States,New York,NY,39968,Central,PROD-4589,Technology,Accessories,Printer,909.1,1,0.15,254.46
+ORD-1135,2022-03-03,2022-03-07,Standard,CUST-166,Customer 148,Home Office,United States,Houston,CA,87740,West,PROD-1438,Technology,Tables,Binder,1890.93,1,0.0,-103.61
+ORD-1136,2022-05-26,2022-06-01,Standard,CUST-517,Customer 91,Home Office,United States,New York,IL,29610,Central,PROD-3779,Technology,Chairs,Monitor,1703.88,6,0.15,447.52
+ORD-1137,2022-05-20,2022-05-25,Standard,CUST-938,Customer 176,Corporate,United States,Los Angeles,IL,80106,West,PROD-2375,Technology,Computers,Phone,495.87,1,0.0,1.71
+ORD-1138,2022-06-03,2022-06-05,Standard,CUST-737,Customer 22,Home Office,United States,New York,AZ,87466,West,PROD-8399,Technology,Chairs,Laptop,1395.48,9,0.0,-187.35
+ORD-1139,2022-08-20,2022-08-29,Standard,CUST-467,Customer 10,Home Office,United States,Chicago,CA,56117,Central,PROD-5693,Technology,Storage,Paper,1891.41,1,0.15,-44.43
+ORD-1140,2022-07-19,2022-07-23,Standard,CUST-739,Customer 155,Consumer,United States,Los Angeles,AZ,17531,South,PROD-2558,Furniture,Storage,Phone,341.82,2,0.0,-32.95
+ORD-1141,2022-09-30,2022-10-03,Standard,CUST-127,Customer 137,Home Office,United States,Phoenix,IL,41918,East,PROD-6729,Furniture,Phones,Laptop,1782.62,3,0.0,505.68
+ORD-1142,2021-07-20,2021-07-29,Standard,CUST-177,Customer 138,Home Office,United States,Phoenix,AZ,56309,East,PROD-7799,Technology,Accessories,Desk,1579.05,3,0.15,-56.83
+ORD-1143,2022-09-13,2022-09-19,Standard,CUST-250,Customer 92,Consumer,United States,New York,TX,22764,South,PROD-9291,Technology,Phones,Table,806.98,7,0.05,43.76
+ORD-1144,2023-06-06,2023-06-07,Standard,CUST-164,Customer 27,Home Office,United States,Chicago,IL,27739,East,PROD-8866,Furniture,Computers,Pen,1580.19,9,0.1,-179.28
+ORD-1145,2021-05-26,2021-06-03,Standard,CUST-938,Customer 47,Home Office,United States,Chicago,TX,88181,Central,PROD-3169,Furniture,Chairs,Paper,1674.73,5,0.15,-55.55
+ORD-1146,2021-02-04,2021-02-05,Standard,CUST-962,Customer 179,Corporate,United States,Houston,IL,67426,Central,PROD-5614,Technology,Storage,Chair,1966.29,1,0.15,699.35
+ORD-1147,2022-02-06,2022-02-10,Standard,CUST-840,Customer 164,Corporate,United States,Los Angeles,NY,68122,East,PROD-2323,Office Supplies,Computers,Pen,126.34,5,0.15,-3.35
+ORD-1148,2021-01-15,2021-01-22,Standard,CUST-700,Customer 4,Consumer,United States,New York,TX,14722,East,PROD-7723,Technology,Chairs,Chair,1203.17,2,0.1,69.91
+ORD-1149,2022-11-12,2022-11-16,Standard,CUST-383,Customer 189,Home Office,United States,Chicago,AZ,59898,South,PROD-4762,Furniture,Phones,Laptop,1395.62,2,0.15,466.79
+ORD-1150,2022-10-08,2022-10-11,Standard,CUST-703,Customer 161,Corporate,United States,Chicago,IL,81020,East,PROD-5150,Furniture,Chairs,Chair,1836.57,2,0.05,-278.0
+ORD-1151,2022-03-08,2022-03-09,Standard,CUST-186,Customer 166,Corporate,United States,Phoenix,NY,76933,Central,PROD-2825,Technology,Phones,Monitor,1831.14,1,0.05,3.63
+ORD-1152,2021-05-31,2021-06-02,Standard,CUST-494,Customer 199,Home Office,United States,New York,TX,66614,South,PROD-5723,Technology,Tables,Chair,516.03,8,0.0,102.98
+ORD-1153,2021-02-10,2021-02-13,Standard,CUST-671,Customer 90,Consumer,United States,Chicago,NY,82683,Central,PROD-5483,Furniture,Computers,Binder,601.68,8,0.0,-21.91
+ORD-1154,2023-05-03,2023-05-09,Standard,CUST-976,Customer 13,Corporate,United States,Los Angeles,NY,18983,East,PROD-1136,Furniture,Computers,Printer,1550.04,1,0.05,560.98
+ORD-1155,2022-01-28,2022-02-06,Standard,CUST-766,Customer 95,Consumer,United States,Los Angeles,NY,94734,Central,PROD-1746,Furniture,Accessories,Monitor,1687.41,3,0.1,657.96
+ORD-1156,2023-07-01,2023-07-02,Standard,CUST-487,Customer 149,Home Office,United States,Los Angeles,NY,70114,West,PROD-7127,Office Supplies,Storage,Phone,1791.63,4,0.15,336.94
+ORD-1157,2023-09-02,2023-09-11,Standard,CUST-696,Customer 164,Home Office,United States,New York,IL,43628,East,PROD-1228,Technology,Tables,Paper,1167.96,8,0.15,-145.04
+ORD-1158,2021-03-07,2021-03-10,Standard,CUST-191,Customer 63,Home Office,United States,Los Angeles,TX,20830,Central,PROD-7660,Furniture,Chairs,Table,902.48,4,0.15,255.63
+ORD-1159,2022-05-08,2022-05-09,Standard,CUST-942,Customer 79,Consumer,United States,New York,NY,26139,East,PROD-8557,Office Supplies,Chairs,Printer,1960.95,1,0.15,-271.96
+ORD-1160,2021-12-04,2021-12-05,Standard,CUST-331,Customer 157,Home Office,United States,Chicago,CA,20091,East,PROD-7100,Furniture,Accessories,Monitor,1237.07,3,0.0,420.91
+ORD-1161,2021-07-07,2021-07-12,Standard,CUST-597,Customer 109,Consumer,United States,New York,IL,67989,West,PROD-2660,Technology,Storage,Monitor,720.24,7,0.0,259.51
+ORD-1162,2021-07-21,2021-07-22,Standard,CUST-838,Customer 151,Corporate,United States,Phoenix,AZ,45441,Central,PROD-8013,Office Supplies,Computers,Printer,543.66,4,0.15,50.11
+ORD-1163,2023-08-06,2023-08-12,Standard,CUST-129,Customer 92,Corporate,United States,Los Angeles,NY,62378,West,PROD-1999,Office Supplies,Chairs,Desk,1159.22,5,0.1,361.26
+ORD-1164,2022-01-20,2022-01-22,Standard,CUST-832,Customer 107,Consumer,United States,Phoenix,NY,55564,East,PROD-3273,Technology,Phones,Laptop,1540.8,6,0.05,188.28
+ORD-1165,2022-01-07,2022-01-08,Standard,CUST-331,Customer 152,Corporate,United States,Los Angeles,AZ,64831,South,PROD-2024,Technology,Phones,Phone,998.52,2,0.05,338.42
+ORD-1166,2021-09-17,2021-09-22,Standard,CUST-333,Customer 134,Consumer,United States,Houston,TX,38499,South,PROD-1670,Office Supplies,Tables,Laptop,454.48,1,0.15,-11.38
+ORD-1167,2021-07-24,2021-07-30,Standard,CUST-338,Customer 139,Home Office,United States,New York,TX,92594,West,PROD-9978,Furniture,Tables,Phone,295.07,1,0.1,94.79
+ORD-1168,2023-02-04,2023-02-08,Standard,CUST-330,Customer 199,Home Office,United States,Phoenix,IL,79300,Central,PROD-5206,Technology,Accessories,Table,592.22,2,0.1,-31.04
+ORD-1169,2021-03-11,2021-03-17,Standard,CUST-380,Customer 101,Consumer,United States,Los Angeles,NY,40141,East,PROD-2137,Office Supplies,Storage,Desk,1934.24,4,0.05,94.13
+ORD-1170,2023-01-10,2023-01-18,Standard,CUST-403,Customer 75,Home Office,United States,Phoenix,NY,93492,East,PROD-9739,Furniture,Accessories,Pen,284.28,4,0.1,-43.04
+ORD-1171,2021-04-12,2021-04-15,Standard,CUST-476,Customer 18,Home Office,United States,New York,TX,93715,West,PROD-3123,Office Supplies,Chairs,Printer,738.34,7,0.1,-102.47
+ORD-1172,2022-04-29,2022-05-03,Standard,CUST-441,Customer 157,Corporate,United States,Los Angeles,IL,93457,Central,PROD-8573,Office Supplies,Tables,Pen,101.24,4,0.1,7.93
+ORD-1173,2021-07-30,2021-08-05,Standard,CUST-137,Customer 175,Home Office,United States,New York,NY,49932,East,PROD-5335,Office Supplies,Storage,Pen,1763.32,8,0.0,-344.96
+ORD-1174,2022-07-06,2022-07-12,Standard,CUST-959,Customer 96,Consumer,United States,Los Angeles,NY,45335,South,PROD-9901,Office Supplies,Phones,Phone,848.33,6,0.15,301.8
+ORD-1175,2022-05-31,2022-06-02,Standard,CUST-211,Customer 156,Home Office,United States,Los Angeles,TX,34135,East,PROD-7142,Furniture,Tables,Chair,939.06,8,0.05,-68.57
+ORD-1176,2022-04-22,2022-04-24,Standard,CUST-994,Customer 105,Corporate,United States,New York,TX,14973,South,PROD-5712,Furniture,Storage,Table,1174.25,4,0.15,446.73
+ORD-1177,2023-06-27,2023-07-02,Standard,CUST-769,Customer 61,Consumer,United States,Chicago,AZ,44895,West,PROD-6016,Office Supplies,Accessories,Paper,145.03,1,0.15,53.85
+ORD-1178,2022-03-31,2022-04-08,Standard,CUST-418,Customer 137,Home Office,United States,Houston,TX,40518,South,PROD-9361,Technology,Chairs,Phone,1924.43,8,0.0,-133.69
+ORD-1179,2023-08-18,2023-08-22,Standard,CUST-363,Customer 115,Consumer,United States,Chicago,TX,59041,West,PROD-8073,Furniture,Tables,Desk,270.92,6,0.05,-13.8
+ORD-1180,2021-12-29,2022-01-07,Standard,CUST-243,Customer 81,Consumer,United States,Los Angeles,AZ,56781,South,PROD-2451,Office Supplies,Accessories,Chair,781.26,8,0.1,165.64
+ORD-1181,2021-07-18,2021-07-23,Standard,CUST-431,Customer 12,Corporate,United States,New York,NY,57565,Central,PROD-8560,Technology,Phones,Phone,1928.54,5,0.0,498.26
+ORD-1182,2023-01-16,2023-01-22,Standard,CUST-618,Customer 94,Home Office,United States,Los Angeles,AZ,73552,Central,PROD-5146,Office Supplies,Phones,Binder,533.53,2,0.0,0.06
+ORD-1183,2023-01-23,2023-02-01,Standard,CUST-417,Customer 177,Home Office,United States,Phoenix,AZ,34262,Central,PROD-3452,Technology,Phones,Desk,918.38,3,0.15,-6.44
+ORD-1184,2021-07-04,2021-07-12,Standard,CUST-227,Customer 16,Consumer,United States,Chicago,AZ,22884,East,PROD-1564,Furniture,Computers,Paper,522.4,5,0.0,2.96
+ORD-1185,2021-08-07,2021-08-10,Standard,CUST-609,Customer 24,Corporate,United States,Phoenix,CA,74309,Central,PROD-4649,Furniture,Phones,Chair,1190.8,9,0.05,-134.5
+ORD-1186,2023-05-26,2023-05-29,Standard,CUST-675,Customer 37,Corporate,United States,Los Angeles,IL,36226,South,PROD-6100,Technology,Tables,Desk,1423.91,1,0.1,146.76
+ORD-1187,2022-04-19,2022-04-22,Standard,CUST-164,Customer 170,Home Office,United States,Los Angeles,IL,16276,Central,PROD-1010,Technology,Computers,Paper,582.13,3,0.15,58.02
+ORD-1188,2021-01-09,2021-01-13,Standard,CUST-819,Customer 47,Corporate,United States,Houston,IL,31123,Central,PROD-8234,Office Supplies,Accessories,Binder,339.31,4,0.15,59.46
+ORD-1189,2022-08-07,2022-08-08,Standard,CUST-683,Customer 11,Corporate,United States,Houston,NY,18197,West,PROD-8464,Technology,Phones,Chair,967.39,7,0.0,-47.49
+ORD-1190,2022-01-25,2022-01-30,Standard,CUST-438,Customer 48,Consumer,United States,Houston,IL,18489,East,PROD-3748,Furniture,Chairs,Laptop,767.36,4,0.0,66.87
+ORD-1191,2021-09-03,2021-09-11,Standard,CUST-566,Customer 6,Corporate,United States,Chicago,CA,84333,East,PROD-3018,Technology,Tables,Table,604.19,7,0.15,13.99
+ORD-1192,2022-01-27,2022-01-29,Standard,CUST-697,Customer 166,Consumer,United States,New York,IL,13561,Central,PROD-5154,Furniture,Chairs,Chair,624.64,2,0.05,62.09
+ORD-1193,2021-03-31,2021-04-04,Standard,CUST-814,Customer 91,Corporate,United States,Phoenix,CA,49169,West,PROD-1838,Technology,Tables,Phone,1057.9,5,0.05,351.23
+ORD-1194,2023-05-31,2023-06-08,Standard,CUST-980,Customer 177,Corporate,United States,New York,AZ,23470,East,PROD-8268,Technology,Phones,Binder,1551.98,7,0.1,-282.19
+ORD-1195,2023-09-10,2023-09-13,Standard,CUST-177,Customer 21,Home Office,United States,New York,AZ,53447,South,PROD-7124,Furniture,Accessories,Phone,370.27,7,0.0,95.62
+ORD-1196,2021-08-18,2021-08-25,Standard,CUST-825,Customer 177,Home Office,United States,Los Angeles,CA,16708,Central,PROD-9333,Office Supplies,Computers,Printer,724.13,2,0.05,250.06
+ORD-1197,2023-08-02,2023-08-09,Standard,CUST-862,Customer 115,Consumer,United States,Phoenix,TX,61221,East,PROD-3370,Furniture,Accessories,Monitor,1493.15,2,0.15,241.2
+ORD-1198,2023-08-13,2023-08-17,Standard,CUST-698,Customer 6,Home Office,United States,Los Angeles,CA,16845,South,PROD-5229,Technology,Phones,Binder,1642.44,7,0.15,-2.83
+ORD-1199,2023-03-31,2023-04-08,Standard,CUST-458,Customer 55,Corporate,United States,Houston,NY,76051,South,PROD-8869,Technology,Tables,Table,265.9,6,0.0,34.65
+ORD-1200,2021-04-25,2021-05-04,Standard,CUST-618,Customer 78,Consumer,United States,Phoenix,TX,58620,South,PROD-3415,Furniture,Accessories,Phone,845.14,7,0.15,-114.38
+ORD-1201,2022-10-23,2022-10-27,Standard,CUST-223,Customer 70,Corporate,United States,Houston,NY,18665,East,PROD-5062,Furniture,Accessories,Chair,948.61,5,0.1,210.03
+ORD-1202,2022-11-20,2022-11-23,Standard,CUST-399,Customer 120,Home Office,United States,Houston,IL,99830,East,PROD-9084,Technology,Storage,Paper,631.12,8,0.0,-28.54
+ORD-1203,2022-06-01,2022-06-03,Standard,CUST-814,Customer 152,Corporate,United States,New York,NY,87205,West,PROD-4095,Furniture,Computers,Printer,579.43,1,0.05,-6.92
+ORD-1204,2023-04-20,2023-04-24,Standard,CUST-649,Customer 91,Consumer,United States,Houston,IL,39456,West,PROD-1331,Office Supplies,Chairs,Table,1237.95,7,0.1,103.21
+ORD-1205,2021-10-04,2021-10-06,Standard,CUST-979,Customer 144,Corporate,United States,Los Angeles,CA,71809,South,PROD-2324,Furniture,Tables,Chair,345.41,9,0.0,73.41
+ORD-1206,2021-05-20,2021-05-24,Standard,CUST-953,Customer 112,Corporate,United States,Chicago,AZ,46316,Central,PROD-8163,Office Supplies,Phones,Binder,173.02,9,0.0,25.47
+ORD-1207,2023-03-06,2023-03-08,Standard,CUST-306,Customer 1,Corporate,United States,New York,TX,98805,East,PROD-8670,Office Supplies,Tables,Table,188.39,6,0.15,9.92
+ORD-1208,2023-07-16,2023-07-18,Standard,CUST-721,Customer 9,Corporate,United States,Los Angeles,AZ,40784,South,PROD-4248,Office Supplies,Computers,Binder,442.97,4,0.1,167.31
+ORD-1209,2021-05-17,2021-05-26,Standard,CUST-229,Customer 90,Consumer,United States,Los Angeles,NY,40567,South,PROD-6734,Office Supplies,Accessories,Monitor,315.22,5,0.0,-0.6
+ORD-1210,2023-04-22,2023-04-26,Standard,CUST-859,Customer 132,Corporate,United States,Chicago,TX,87224,Central,PROD-4555,Office Supplies,Storage,Paper,1374.17,1,0.15,315.53
+ORD-1211,2023-03-30,2023-04-07,Standard,CUST-811,Customer 188,Corporate,United States,Chicago,NY,88878,East,PROD-4665,Office Supplies,Accessories,Printer,1882.77,8,0.0,-355.0
+ORD-1212,2022-03-18,2022-03-24,Standard,CUST-340,Customer 177,Corporate,United States,Phoenix,NY,74827,Central,PROD-4145,Furniture,Tables,Printer,1465.27,5,0.15,451.09
+ORD-1213,2023-09-05,2023-09-12,Standard,CUST-920,Customer 119,Home Office,United States,New York,CA,65794,South,PROD-5932,Furniture,Chairs,Phone,1907.88,5,0.15,528.77
+ORD-1214,2023-09-20,2023-09-28,Standard,CUST-610,Customer 167,Home Office,United States,Phoenix,NY,74265,South,PROD-4500,Furniture,Chairs,Laptop,31.45,6,0.05,12.52
+ORD-1215,2022-07-15,2022-07-17,Standard,CUST-303,Customer 40,Corporate,United States,Houston,TX,19089,West,PROD-2199,Technology,Tables,Pen,406.46,8,0.15,78.84
+ORD-1216,2022-09-14,2022-09-15,Standard,CUST-948,Customer 172,Consumer,United States,New York,AZ,94861,Central,PROD-8548,Furniture,Phones,Paper,1222.21,8,0.15,168.53
+ORD-1217,2021-08-16,2021-08-21,Standard,CUST-620,Customer 42,Home Office,United States,Houston,NY,89477,South,PROD-2780,Furniture,Accessories,Pen,1155.04,6,0.1,92.71
+ORD-1218,2021-11-23,2021-11-29,Standard,CUST-442,Customer 106,Corporate,United States,Phoenix,TX,79699,West,PROD-6021,Office Supplies,Chairs,Monitor,1965.78,2,0.05,195.94
+ORD-1219,2022-03-01,2022-03-05,Standard,CUST-450,Customer 183,Consumer,United States,Houston,NY,95341,West,PROD-7008,Technology,Phones,Desk,717.81,6,0.05,209.91
+ORD-1220,2022-12-08,2022-12-13,Standard,CUST-849,Customer 192,Corporate,United States,New York,NY,28792,South,PROD-8485,Furniture,Tables,Table,363.66,6,0.1,28.71
+ORD-1221,2023-01-06,2023-01-15,Standard,CUST-235,Customer 42,Home Office,United States,New York,IL,98871,South,PROD-2898,Furniture,Computers,Chair,228.96,6,0.05,26.72
+ORD-1222,2022-04-11,2022-04-13,Standard,CUST-271,Customer 90,Corporate,United States,Chicago,NY,56897,South,PROD-9745,Technology,Computers,Chair,258.23,7,0.0,19.9
+ORD-1223,2021-07-27,2021-08-02,Standard,CUST-570,Customer 192,Corporate,United States,Los Angeles,NY,61246,Central,PROD-5949,Office Supplies,Phones,Phone,1806.43,1,0.1,691.31
+ORD-1224,2022-05-01,2022-05-06,Standard,CUST-652,Customer 169,Home Office,United States,Chicago,CA,98330,South,PROD-8102,Office Supplies,Chairs,Phone,1427.29,4,0.05,-197.48
+ORD-1225,2022-01-26,2022-02-04,Standard,CUST-588,Customer 72,Consumer,United States,New York,AZ,13450,Central,PROD-6673,Technology,Accessories,Paper,1713.51,8,0.15,-246.87
+ORD-1226,2022-06-21,2022-06-22,Standard,CUST-824,Customer 89,Consumer,United States,Houston,AZ,34570,West,PROD-5246,Technology,Tables,Printer,912.08,8,0.15,55.27
+ORD-1227,2022-12-05,2022-12-12,Standard,CUST-134,Customer 171,Consumer,United States,Houston,NY,34443,South,PROD-2703,Office Supplies,Chairs,Desk,1305.76,3,0.05,-34.44
+ORD-1228,2023-08-20,2023-08-28,Standard,CUST-910,Customer 197,Consumer,United States,Los Angeles,NY,90197,Central,PROD-4312,Furniture,Tables,Paper,1189.59,2,0.15,328.27
+ORD-1229,2022-03-31,2022-04-07,Standard,CUST-431,Customer 197,Home Office,United States,Los Angeles,TX,86586,East,PROD-5005,Furniture,Phones,Table,610.52,1,0.05,-61.67
+ORD-1230,2022-08-05,2022-08-13,Standard,CUST-356,Customer 153,Consumer,United States,Houston,NY,33516,West,PROD-6887,Technology,Chairs,Laptop,1983.46,1,0.1,-359.03
+ORD-1231,2023-04-10,2023-04-19,Standard,CUST-615,Customer 101,Consumer,United States,Phoenix,AZ,19019,East,PROD-2368,Furniture,Storage,Printer,148.48,2,0.0,2.86
+ORD-1232,2021-12-07,2021-12-08,Standard,CUST-133,Customer 78,Corporate,United States,Houston,NY,60622,Central,PROD-4684,Technology,Storage,Printer,692.7,7,0.15,194.39
+ORD-1233,2023-07-11,2023-07-12,Standard,CUST-883,Customer 81,Home Office,United States,Phoenix,CA,81976,Central,PROD-9045,Office Supplies,Chairs,Monitor,264.63,5,0.1,-33.78
+ORD-1234,2023-05-05,2023-05-07,Standard,CUST-575,Customer 72,Corporate,United States,Los Angeles,AZ,12993,South,PROD-7453,Furniture,Tables,Laptop,1872.24,8,0.05,-1.58
+ORD-1235,2021-09-16,2021-09-24,Standard,CUST-709,Customer 4,Home Office,United States,New York,CA,39150,South,PROD-1441,Office Supplies,Tables,Printer,1181.4,8,0.15,-27.96
+ORD-1236,2022-08-05,2022-08-08,Standard,CUST-313,Customer 89,Home Office,United States,Los Angeles,NY,55272,East,PROD-6935,Furniture,Phones,Desk,231.53,5,0.0,4.67
+ORD-1237,2022-11-22,2022-11-29,Standard,CUST-183,Customer 77,Corporate,United States,New York,CA,66660,West,PROD-9773,Technology,Accessories,Monitor,1012.57,7,0.05,144.62
+ORD-1238,2022-03-13,2022-03-19,Standard,CUST-935,Customer 10,Home Office,United States,New York,AZ,64906,South,PROD-5280,Office Supplies,Phones,Monitor,698.87,6,0.05,-16.7
+ORD-1239,2022-04-13,2022-04-17,Standard,CUST-568,Customer 167,Home Office,United States,Los Angeles,CA,25529,West,PROD-4575,Technology,Computers,Printer,803.17,4,0.05,307.22
+ORD-1240,2021-02-28,2021-03-02,Standard,CUST-730,Customer 8,Corporate,United States,Los Angeles,AZ,11313,East,PROD-1120,Furniture,Tables,Printer,1595.24,1,0.0,-2.46
+ORD-1241,2021-11-06,2021-11-14,Standard,CUST-722,Customer 59,Consumer,United States,Phoenix,AZ,52668,West,PROD-3895,Office Supplies,Accessories,Laptop,39.15,5,0.1,2.72
+ORD-1242,2022-12-02,2022-12-08,Standard,CUST-363,Customer 37,Corporate,United States,Los Angeles,CA,31972,West,PROD-4155,Office Supplies,Tables,Desk,1350.31,8,0.05,-146.0
+ORD-1243,2023-04-07,2023-04-08,Standard,CUST-140,Customer 61,Corporate,United States,Chicago,CA,65013,East,PROD-2446,Furniture,Accessories,Chair,1658.5,6,0.05,-273.36
+ORD-1244,2021-02-07,2021-02-11,Standard,CUST-929,Customer 123,Home Office,United States,Los Angeles,NY,79129,Central,PROD-7569,Office Supplies,Tables,Binder,1227.45,7,0.1,-24.53
+ORD-1245,2021-03-04,2021-03-11,Standard,CUST-385,Customer 33,Home Office,United States,New York,NY,15774,Central,PROD-3858,Furniture,Accessories,Pen,1462.28,3,0.1,-241.82
+ORD-1246,2023-04-04,2023-04-12,Standard,CUST-796,Customer 17,Home Office,United States,Los Angeles,TX,42314,Central,PROD-5167,Office Supplies,Phones,Desk,112.87,9,0.1,44.74
+ORD-1247,2022-05-26,2022-06-04,Standard,CUST-356,Customer 71,Corporate,United States,Los Angeles,TX,90175,East,PROD-4565,Office Supplies,Chairs,Binder,1789.53,4,0.1,684.73
+ORD-1248,2021-10-08,2021-10-17,Standard,CUST-781,Customer 130,Home Office,United States,Phoenix,NY,13513,Central,PROD-7140,Technology,Phones,Binder,743.63,1,0.05,-70.69
+ORD-1249,2021-04-19,2021-04-20,Standard,CUST-551,Customer 105,Home Office,United States,Chicago,NY,97737,Central,PROD-6077,Furniture,Storage,Table,1835.01,2,0.1,665.46
+ORD-1250,2023-02-12,2023-02-15,Standard,CUST-431,Customer 77,Consumer,United States,Los Angeles,IL,94003,South,PROD-9838,Technology,Storage,Desk,989.53,9,0.05,16.62
+ORD-1251,2022-09-06,2022-09-07,Standard,CUST-132,Customer 38,Home Office,United States,Houston,IL,65535,East,PROD-7272,Technology,Accessories,Table,979.99,2,0.15,60.93
+ORD-1252,2021-05-14,2021-05-15,Standard,CUST-729,Customer 39,Consumer,United States,Los Angeles,CA,40380,Central,PROD-5486,Technology,Phones,Binder,611.27,1,0.05,122.54
+ORD-1253,2022-07-03,2022-07-08,Standard,CUST-810,Customer 39,Consumer,United States,New York,NY,55904,West,PROD-2016,Furniture,Phones,Desk,647.68,2,0.0,-53.39
+ORD-1254,2021-09-22,2021-09-28,Standard,CUST-366,Customer 161,Consumer,United States,Houston,IL,15851,Central,PROD-1985,Furniture,Phones,Printer,982.01,5,0.0,3.64
+ORD-1255,2023-09-02,2023-09-07,Standard,CUST-581,Customer 17,Corporate,United States,Los Angeles,TX,67055,West,PROD-3358,Furniture,Accessories,Printer,275.39,1,0.15,39.52
+ORD-1256,2023-04-15,2023-04-16,Standard,CUST-747,Customer 25,Corporate,United States,Houston,IL,86002,East,PROD-1913,Office Supplies,Storage,Table,792.84,6,0.15,207.42
+ORD-1257,2022-10-09,2022-10-15,Standard,CUST-176,Customer 151,Consumer,United States,Chicago,AZ,45881,East,PROD-8925,Technology,Computers,Paper,806.09,5,0.0,108.94
+ORD-1258,2022-10-04,2022-10-08,Standard,CUST-455,Customer 137,Home Office,United States,New York,TX,86136,East,PROD-7989,Office Supplies,Chairs,Laptop,558.57,1,0.05,-31.42
+ORD-1259,2022-07-25,2022-08-01,Standard,CUST-151,Customer 15,Home Office,United States,Phoenix,NY,14715,Central,PROD-7200,Furniture,Accessories,Printer,1858.0,6,0.1,430.89
+ORD-1260,2021-04-13,2021-04-22,Standard,CUST-326,Customer 140,Consumer,United States,Chicago,AZ,25546,South,PROD-7592,Office Supplies,Tables,Table,37.24,1,0.0,-2.76
+ORD-1261,2021-02-27,2021-03-03,Standard,CUST-489,Customer 51,Home Office,United States,Phoenix,NY,76349,South,PROD-3277,Office Supplies,Computers,Binder,1089.78,8,0.05,123.31
+ORD-1262,2022-11-05,2022-11-14,Standard,CUST-369,Customer 136,Consumer,United States,Los Angeles,TX,34146,Central,PROD-2719,Office Supplies,Tables,Table,953.51,7,0.1,151.71
+ORD-1263,2021-09-08,2021-09-15,Standard,CUST-434,Customer 160,Home Office,United States,Los Angeles,IL,56842,Central,PROD-9730,Furniture,Phones,Binder,1748.71,2,0.15,-143.6
+ORD-1264,2021-07-13,2021-07-21,Standard,CUST-368,Customer 138,Corporate,United States,New York,CA,41812,East,PROD-2464,Technology,Phones,Pen,1009.74,6,0.0,319.97
+ORD-1265,2022-05-04,2022-05-06,Standard,CUST-753,Customer 13,Corporate,United States,Phoenix,NY,83974,South,PROD-4713,Office Supplies,Storage,Desk,1391.35,8,0.05,478.38
+ORD-1266,2022-03-16,2022-03-23,Standard,CUST-915,Customer 89,Corporate,United States,Houston,IL,37861,West,PROD-8916,Furniture,Tables,Printer,927.6,7,0.1,-94.97
+ORD-1267,2023-05-02,2023-05-06,Standard,CUST-100,Customer 156,Consumer,United States,Phoenix,TX,50700,West,PROD-9203,Furniture,Accessories,Pen,1183.84,3,0.1,432.18
+ORD-1268,2022-07-26,2022-08-04,Standard,CUST-393,Customer 103,Consumer,United States,Chicago,IL,91841,East,PROD-3323,Furniture,Phones,Chair,1847.23,3,0.0,316.22
+ORD-1269,2022-04-18,2022-04-22,Standard,CUST-500,Customer 184,Consumer,United States,Houston,IL,23585,Central,PROD-4677,Office Supplies,Tables,Pen,1700.59,2,0.15,-125.18
+ORD-1270,2022-05-27,2022-06-01,Standard,CUST-718,Customer 67,Consumer,United States,Houston,AZ,23959,South,PROD-8264,Furniture,Phones,Pen,1794.06,8,0.0,36.62
+ORD-1271,2022-07-11,2022-07-14,Standard,CUST-143,Customer 9,Consumer,United States,New York,NY,85200,South,PROD-5817,Furniture,Accessories,Monitor,639.51,9,0.15,60.08
+ORD-1272,2022-08-15,2022-08-20,Standard,CUST-160,Customer 19,Corporate,United States,Los Angeles,NY,88745,West,PROD-3145,Technology,Chairs,Printer,210.94,4,0.0,11.05
+ORD-1273,2022-08-20,2022-08-29,Standard,CUST-203,Customer 159,Consumer,United States,Los Angeles,IL,21368,South,PROD-3010,Technology,Computers,Paper,679.34,8,0.0,176.14
+ORD-1274,2023-03-11,2023-03-17,Standard,CUST-232,Customer 146,Consumer,United States,Los Angeles,IL,38236,West,PROD-4936,Technology,Storage,Table,649.32,9,0.15,179.51
+ORD-1275,2022-09-28,2022-10-03,Standard,CUST-991,Customer 173,Consumer,United States,Chicago,AZ,62506,South,PROD-6914,Furniture,Phones,Desk,1694.96,6,0.05,32.06
+ORD-1276,2022-05-02,2022-05-11,Standard,CUST-417,Customer 91,Home Office,United States,Chicago,AZ,56659,South,PROD-6637,Technology,Chairs,Chair,1951.93,1,0.0,192.42
+ORD-1277,2022-05-21,2022-05-25,Standard,CUST-343,Customer 85,Home Office,United States,Houston,CA,42909,West,PROD-4688,Office Supplies,Tables,Table,1028.72,4,0.0,160.9
+ORD-1278,2023-01-29,2023-02-05,Standard,CUST-371,Customer 6,Home Office,United States,New York,CA,71216,Central,PROD-3589,Technology,Storage,Phone,873.87,7,0.15,245.34
+ORD-1279,2023-01-27,2023-01-29,Standard,CUST-292,Customer 130,Home Office,United States,Phoenix,IL,38622,West,PROD-4769,Technology,Chairs,Phone,677.99,5,0.15,136.2
+ORD-1280,2023-01-24,2023-02-02,Standard,CUST-150,Customer 137,Corporate,United States,Houston,IL,25858,West,PROD-4110,Furniture,Storage,Chair,380.77,5,0.05,135.48
+ORD-1281,2021-10-29,2021-11-02,Standard,CUST-594,Customer 31,Consumer,United States,Houston,TX,18830,Central,PROD-6248,Furniture,Storage,Binder,1499.05,5,0.05,135.05
+ORD-1282,2022-12-12,2022-12-16,Standard,CUST-224,Customer 23,Home Office,United States,Houston,AZ,89351,South,PROD-2393,Technology,Accessories,Phone,69.5,2,0.1,15.32
+ORD-1283,2021-10-13,2021-10-17,Standard,CUST-981,Customer 95,Home Office,United States,New York,TX,39069,West,PROD-7176,Technology,Chairs,Table,1229.33,6,0.0,-162.43
+ORD-1284,2022-10-20,2022-10-24,Standard,CUST-774,Customer 85,Corporate,United States,Phoenix,NY,91664,East,PROD-1748,Office Supplies,Chairs,Phone,930.72,6,0.0,-74.62
+ORD-1285,2022-11-01,2022-11-05,Standard,CUST-235,Customer 57,Corporate,United States,Phoenix,NY,24994,Central,PROD-2493,Technology,Accessories,Printer,1526.84,3,0.15,140.2
+ORD-1286,2022-04-10,2022-04-12,Standard,CUST-734,Customer 155,Corporate,United States,Los Angeles,IL,94567,East,PROD-2627,Office Supplies,Phones,Monitor,1428.86,7,0.1,199.61
+ORD-1287,2022-08-27,2022-09-01,Standard,CUST-578,Customer 36,Home Office,United States,Houston,CA,88720,South,PROD-6250,Office Supplies,Tables,Desk,182.75,4,0.15,-15.45
+ORD-1288,2023-02-20,2023-02-24,Standard,CUST-131,Customer 50,Consumer,United States,Phoenix,AZ,78390,West,PROD-4105,Office Supplies,Tables,Printer,1609.65,9,0.0,-158.8
+ORD-1289,2022-04-08,2022-04-11,Standard,CUST-398,Customer 50,Home Office,United States,Los Angeles,CA,51038,East,PROD-6327,Technology,Tables,Phone,377.75,9,0.05,29.74
+ORD-1290,2021-08-24,2021-08-30,Standard,CUST-438,Customer 54,Consumer,United States,New York,NY,73776,West,PROD-4092,Office Supplies,Storage,Monitor,207.94,3,0.15,61.24
+ORD-1291,2023-03-03,2023-03-11,Standard,CUST-109,Customer 110,Home Office,United States,New York,CA,27990,South,PROD-8843,Technology,Chairs,Chair,156.56,6,0.05,54.06
+ORD-1292,2023-07-19,2023-07-22,Standard,CUST-615,Customer 78,Home Office,United States,Houston,CA,95022,East,PROD-4225,Furniture,Phones,Table,1947.79,1,0.05,130.5
+ORD-1293,2023-09-24,2023-09-27,Standard,CUST-196,Customer 93,Consumer,United States,New York,IL,57459,East,PROD-6309,Office Supplies,Computers,Chair,1683.26,4,0.1,-237.22
+ORD-1294,2021-07-28,2021-08-02,Standard,CUST-444,Customer 191,Corporate,United States,Los Angeles,IL,93168,South,PROD-3751,Office Supplies,Accessories,Desk,1662.3,6,0.05,-135.07
+ORD-1295,2021-06-18,2021-06-26,Standard,CUST-861,Customer 45,Consumer,United States,Houston,TX,51489,West,PROD-2528,Furniture,Storage,Phone,103.55,3,0.05,14.69
+ORD-1296,2021-02-21,2021-02-23,Standard,CUST-359,Customer 171,Home Office,United States,New York,AZ,31124,South,PROD-5844,Furniture,Storage,Paper,91.01,7,0.1,-7.9
+ORD-1297,2022-05-03,2022-05-10,Standard,CUST-924,Customer 140,Home Office,United States,Phoenix,NY,30482,South,PROD-5812,Office Supplies,Chairs,Table,1472.13,4,0.0,-83.18
+ORD-1298,2021-11-14,2021-11-18,Standard,CUST-622,Customer 20,Consumer,United States,Houston,CA,22912,Central,PROD-1780,Technology,Chairs,Phone,1773.52,6,0.1,-332.34
+ORD-1299,2021-03-04,2021-03-06,Standard,CUST-124,Customer 107,Corporate,United States,Phoenix,NY,50068,West,PROD-1813,Furniture,Accessories,Desk,758.27,7,0.1,-112.93
+ORD-1300,2021-03-21,2021-03-29,Standard,CUST-581,Customer 67,Consumer,United States,Chicago,TX,94367,South,PROD-3582,Technology,Storage,Printer,500.84,5,0.15,24.29
+ORD-1301,2023-08-01,2023-08-10,Standard,CUST-367,Customer 199,Home Office,United States,Los Angeles,IL,89963,East,PROD-2849,Technology,Storage,Desk,330.62,4,0.05,93.05
+ORD-1302,2021-01-08,2021-01-11,Standard,CUST-622,Customer 42,Home Office,United States,New York,IL,85082,South,PROD-6115,Furniture,Phones,Chair,195.83,2,0.05,-13.26
+ORD-1303,2023-07-13,2023-07-15,Standard,CUST-862,Customer 112,Corporate,United States,Houston,NY,39456,West,PROD-6058,Furniture,Chairs,Desk,612.6,9,0.05,41.05
+ORD-1304,2022-11-18,2022-11-27,Standard,CUST-860,Customer 193,Consumer,United States,Phoenix,AZ,95116,West,PROD-6817,Furniture,Tables,Binder,382.06,5,0.1,78.22
+ORD-1305,2022-12-23,2022-12-26,Standard,CUST-535,Customer 85,Corporate,United States,Los Angeles,IL,61852,West,PROD-2134,Technology,Chairs,Binder,655.95,2,0.1,260.7
+ORD-1306,2023-09-23,2023-10-02,Standard,CUST-267,Customer 64,Home Office,United States,Houston,NY,28458,West,PROD-6621,Office Supplies,Computers,Monitor,1486.16,2,0.0,-145.3
+ORD-1307,2022-08-22,2022-08-31,Standard,CUST-748,Customer 20,Corporate,United States,Houston,TX,98238,East,PROD-9642,Office Supplies,Chairs,Monitor,252.65,1,0.15,44.97
+ORD-1308,2022-03-29,2022-03-31,Standard,CUST-744,Customer 126,Consumer,United States,Chicago,NY,72265,West,PROD-2349,Furniture,Computers,Desk,785.36,7,0.15,-114.28
+ORD-1309,2021-01-01,2021-01-08,Standard,CUST-898,Customer 33,Corporate,United States,Phoenix,TX,50979,Central,PROD-4729,Furniture,Storage,Pen,104.33,2,0.15,41.46
+ORD-1310,2023-05-24,2023-05-28,Standard,CUST-378,Customer 141,Corporate,United States,Chicago,NY,51129,West,PROD-8910,Furniture,Storage,Pen,319.61,5,0.05,40.08
+ORD-1311,2021-01-22,2021-01-31,Standard,CUST-127,Customer 186,Corporate,United States,Los Angeles,NY,75713,Central,PROD-4785,Furniture,Phones,Laptop,220.04,9,0.05,18.98
+ORD-1312,2022-04-29,2022-05-05,Standard,CUST-420,Customer 104,Home Office,United States,Chicago,CA,40475,East,PROD-7949,Technology,Chairs,Printer,1649.91,2,0.05,437.19
+ORD-1313,2023-02-20,2023-02-24,Standard,CUST-605,Customer 119,Consumer,United States,Phoenix,CA,56354,Central,PROD-3698,Office Supplies,Chairs,Laptop,10.14,9,0.05,3.33
+ORD-1314,2021-04-25,2021-05-03,Standard,CUST-724,Customer 18,Home Office,United States,New York,IL,74599,South,PROD-8909,Furniture,Tables,Chair,1766.38,7,0.1,-122.28
+ORD-1315,2022-06-16,2022-06-23,Standard,CUST-903,Customer 176,Consumer,United States,Phoenix,AZ,42369,West,PROD-8726,Office Supplies,Phones,Binder,1729.02,4,0.0,288.6
+ORD-1316,2021-01-19,2021-01-28,Standard,CUST-468,Customer 104,Corporate,United States,Houston,NY,72741,South,PROD-4552,Furniture,Chairs,Pen,384.14,8,0.0,-16.45
+ORD-1317,2023-08-11,2023-08-19,Standard,CUST-540,Customer 22,Consumer,United States,Houston,CA,97215,East,PROD-1682,Office Supplies,Phones,Phone,1534.14,4,0.05,162.69
+ORD-1318,2021-06-11,2021-06-20,Standard,CUST-309,Customer 78,Corporate,United States,Los Angeles,CA,84653,South,PROD-6434,Furniture,Phones,Paper,1260.66,9,0.15,229.57
+ORD-1319,2021-06-04,2021-06-09,Standard,CUST-283,Customer 72,Consumer,United States,Houston,AZ,57981,Central,PROD-7394,Furniture,Accessories,Binder,1718.05,6,0.15,593.33
+ORD-1320,2021-07-12,2021-07-14,Standard,CUST-916,Customer 60,Consumer,United States,Chicago,TX,11987,West,PROD-6635,Technology,Tables,Laptop,300.47,9,0.0,62.76
+ORD-1321,2022-04-11,2022-04-12,Standard,CUST-541,Customer 117,Home Office,United States,Houston,IL,14963,West,PROD-1117,Furniture,Tables,Printer,965.31,9,0.0,-120.84
+ORD-1322,2021-05-09,2021-05-11,Standard,CUST-351,Customer 94,Home Office,United States,Phoenix,IL,43202,East,PROD-7355,Office Supplies,Chairs,Monitor,1889.93,6,0.1,732.76
+ORD-1323,2022-04-27,2022-05-03,Standard,CUST-917,Customer 133,Corporate,United States,Phoenix,TX,86669,South,PROD-9263,Furniture,Phones,Paper,103.04,3,0.05,-16.32
+ORD-1324,2021-06-03,2021-06-09,Standard,CUST-775,Customer 181,Corporate,United States,Los Angeles,TX,77025,West,PROD-3251,Office Supplies,Tables,Pen,266.98,2,0.1,-48.04
+ORD-1325,2022-05-26,2022-05-28,Standard,CUST-867,Customer 34,Corporate,United States,Phoenix,CA,28624,West,PROD-1241,Furniture,Tables,Table,503.46,3,0.1,163.23
+ORD-1326,2022-06-09,2022-06-16,Standard,CUST-859,Customer 71,Home Office,United States,Phoenix,CA,79069,West,PROD-8859,Furniture,Accessories,Table,416.99,8,0.15,140.15
+ORD-1327,2023-07-11,2023-07-15,Standard,CUST-514,Customer 150,Consumer,United States,Houston,TX,28402,East,PROD-7872,Technology,Accessories,Pen,119.7,5,0.05,-22.58
+ORD-1328,2021-02-21,2021-02-26,Standard,CUST-201,Customer 67,Corporate,United States,Los Angeles,TX,62077,Central,PROD-2834,Office Supplies,Computers,Desk,858.95,8,0.15,-33.76
+ORD-1329,2021-06-15,2021-06-19,Standard,CUST-765,Customer 190,Consumer,United States,Phoenix,TX,19954,South,PROD-3824,Technology,Chairs,Desk,1950.11,1,0.15,-21.64
+ORD-1330,2021-03-30,2021-04-01,Standard,CUST-620,Customer 79,Home Office,United States,Los Angeles,TX,13623,West,PROD-2545,Furniture,Chairs,Chair,486.36,2,0.1,-86.34
+ORD-1331,2022-12-30,2023-01-01,Standard,CUST-211,Customer 194,Consumer,United States,New York,NY,23684,West,PROD-5994,Furniture,Phones,Pen,1439.04,6,0.15,521.81
+ORD-1332,2022-07-24,2022-07-25,Standard,CUST-103,Customer 190,Consumer,United States,New York,AZ,85534,West,PROD-6408,Office Supplies,Storage,Paper,1580.48,1,0.1,-306.86
+ORD-1333,2022-09-13,2022-09-15,Standard,CUST-245,Customer 191,Consumer,United States,Los Angeles,AZ,40605,West,PROD-3072,Furniture,Computers,Binder,592.76,5,0.15,130.89
+ORD-1334,2022-03-26,2022-03-27,Standard,CUST-458,Customer 175,Corporate,United States,Phoenix,NY,46556,Central,PROD-4092,Office Supplies,Chairs,Desk,1887.93,5,0.15,-231.17
+ORD-1335,2021-05-12,2021-05-16,Standard,CUST-113,Customer 72,Home Office,United States,Houston,AZ,19956,East,PROD-4351,Technology,Storage,Table,644.16,7,0.05,123.54
+ORD-1336,2021-08-20,2021-08-22,Standard,CUST-318,Customer 140,Consumer,United States,Chicago,TX,46993,East,PROD-3969,Furniture,Chairs,Binder,178.06,5,0.05,37.7
+ORD-1337,2023-06-24,2023-06-29,Standard,CUST-265,Customer 23,Corporate,United States,Chicago,NY,24356,South,PROD-9621,Technology,Phones,Monitor,577.66,9,0.05,58.3
+ORD-1338,2021-07-17,2021-07-26,Standard,CUST-521,Customer 112,Consumer,United States,New York,TX,17162,West,PROD-8040,Office Supplies,Phones,Laptop,1668.47,6,0.1,-214.58
+ORD-1339,2022-01-24,2022-01-31,Standard,CUST-653,Customer 160,Corporate,United States,New York,AZ,45054,East,PROD-1111,Office Supplies,Chairs,Phone,1797.75,7,0.05,125.16
+ORD-1340,2023-04-16,2023-04-21,Standard,CUST-568,Customer 110,Home Office,United States,Phoenix,CA,34572,West,PROD-3003,Office Supplies,Phones,Desk,658.25,2,0.05,98.42
+ORD-1341,2022-02-28,2022-03-04,Standard,CUST-414,Customer 1,Corporate,United States,Phoenix,CA,87710,West,PROD-9934,Furniture,Chairs,Pen,1946.28,2,0.0,301.87
+ORD-1342,2021-07-14,2021-07-20,Standard,CUST-989,Customer 150,Consumer,United States,New York,CA,55125,West,PROD-5352,Technology,Computers,Desk,1277.18,6,0.05,478.03
+ORD-1343,2023-09-06,2023-09-10,Standard,CUST-174,Customer 42,Consumer,United States,New York,AZ,77854,South,PROD-3914,Technology,Computers,Monitor,1935.28,4,0.15,744.45
+ORD-1344,2023-06-29,2023-07-02,Standard,CUST-439,Customer 197,Corporate,United States,Houston,CA,55090,South,PROD-2736,Office Supplies,Storage,Chair,312.16,8,0.05,95.13
+ORD-1345,2021-08-13,2021-08-14,Standard,CUST-890,Customer 197,Corporate,United States,Chicago,TX,17505,South,PROD-9397,Furniture,Chairs,Paper,1625.84,4,0.0,325.1
+ORD-1346,2021-12-05,2021-12-09,Standard,CUST-933,Customer 4,Consumer,United States,New York,TX,94861,Central,PROD-2439,Office Supplies,Computers,Binder,1969.27,3,0.05,191.23
+ORD-1347,2021-11-14,2021-11-16,Standard,CUST-209,Customer 180,Corporate,United States,Chicago,NY,91709,Central,PROD-8627,Furniture,Chairs,Desk,1608.2,7,0.05,-66.25
+ORD-1348,2022-09-30,2022-10-02,Standard,CUST-283,Customer 155,Corporate,United States,Los Angeles,NY,17691,South,PROD-2209,Office Supplies,Accessories,Desk,642.6,5,0.15,168.09
+ORD-1349,2021-07-25,2021-08-01,Standard,CUST-184,Customer 5,Consumer,United States,Chicago,AZ,73843,South,PROD-1560,Technology,Storage,Desk,1463.05,6,0.05,306.85
+ORD-1350,2023-06-10,2023-06-14,Standard,CUST-304,Customer 192,Consumer,United States,Chicago,CA,12538,Central,PROD-6811,Furniture,Chairs,Chair,1279.12,2,0.1,-89.3
+ORD-1351,2021-09-02,2021-09-06,Standard,CUST-259,Customer 33,Corporate,United States,Los Angeles,NY,15870,West,PROD-9532,Office Supplies,Tables,Binder,1775.4,2,0.1,79.35
+ORD-1352,2022-03-02,2022-03-11,Standard,CUST-533,Customer 165,Corporate,United States,Los Angeles,IL,64920,South,PROD-3340,Office Supplies,Storage,Table,681.57,6,0.0,121.62
+ORD-1353,2023-03-30,2023-04-01,Standard,CUST-510,Customer 84,Corporate,United States,Houston,CA,97892,West,PROD-8413,Furniture,Phones,Laptop,1488.62,8,0.1,512.18
+ORD-1354,2022-07-23,2022-07-29,Standard,CUST-272,Customer 86,Home Office,United States,Los Angeles,NY,72600,West,PROD-9684,Technology,Accessories,Desk,1874.39,6,0.15,615.28
+ORD-1355,2021-07-05,2021-07-07,Standard,CUST-431,Customer 147,Corporate,United States,Houston,IL,41317,East,PROD-8522,Office Supplies,Chairs,Binder,205.36,4,0.15,-24.59
+ORD-1356,2022-11-08,2022-11-17,Standard,CUST-847,Customer 94,Corporate,United States,Houston,IL,43434,West,PROD-3542,Office Supplies,Chairs,Pen,98.87,4,0.05,10.09
+ORD-1357,2021-09-15,2021-09-16,Standard,CUST-110,Customer 135,Corporate,United States,Chicago,CA,64588,Central,PROD-5667,Furniture,Chairs,Binder,664.05,7,0.15,-122.57
+ORD-1358,2023-02-23,2023-03-02,Standard,CUST-705,Customer 23,Home Office,United States,Phoenix,TX,36096,South,PROD-7515,Furniture,Storage,Paper,1153.76,4,0.1,404.94
+ORD-1359,2023-03-10,2023-03-18,Standard,CUST-962,Customer 137,Corporate,United States,Chicago,IL,21315,West,PROD-5902,Office Supplies,Storage,Monitor,490.32,3,0.05,86.23
+ORD-1360,2021-03-30,2021-04-02,Standard,CUST-472,Customer 197,Corporate,United States,Los Angeles,CA,92879,West,PROD-6516,Technology,Storage,Printer,1295.58,4,0.1,463.77
+ORD-1361,2023-05-02,2023-05-10,Standard,CUST-169,Customer 78,Home Office,United States,Chicago,NY,85292,West,PROD-6213,Technology,Tables,Binder,777.68,4,0.05,155.2
+ORD-1362,2022-05-23,2022-05-28,Standard,CUST-881,Customer 32,Home Office,United States,Phoenix,NY,29218,East,PROD-1078,Office Supplies,Storage,Paper,346.33,7,0.1,26.25
+ORD-1363,2021-07-27,2021-08-01,Standard,CUST-927,Customer 158,Consumer,United States,Phoenix,AZ,87711,Central,PROD-5601,Furniture,Accessories,Chair,1475.51,5,0.05,412.15
+ORD-1364,2022-04-26,2022-05-01,Standard,CUST-497,Customer 181,Home Office,United States,New York,IL,32385,East,PROD-7615,Office Supplies,Phones,Phone,1156.7,6,0.15,-39.44
+ORD-1365,2023-05-07,2023-05-08,Standard,CUST-972,Customer 55,Home Office,United States,Los Angeles,TX,98481,South,PROD-9080,Furniture,Tables,Monitor,51.26,9,0.0,6.18
+ORD-1366,2021-08-19,2021-08-20,Standard,CUST-823,Customer 24,Consumer,United States,Phoenix,NY,55794,East,PROD-1911,Technology,Tables,Pen,893.69,4,0.0,-89.29
+ORD-1367,2022-03-03,2022-03-11,Standard,CUST-269,Customer 132,Consumer,United States,Los Angeles,NY,29671,East,PROD-8197,Technology,Accessories,Paper,1893.17,7,0.0,-369.01
+ORD-1368,2021-12-02,2021-12-04,Standard,CUST-798,Customer 106,Consumer,United States,Houston,IL,43131,East,PROD-5481,Furniture,Phones,Laptop,1000.47,3,0.15,257.34
+ORD-1369,2021-06-13,2021-06-15,Standard,CUST-830,Customer 153,Home Office,United States,Los Angeles,NY,90459,West,PROD-5427,Office Supplies,Chairs,Chair,1914.36,3,0.15,-235.52
+ORD-1370,2023-06-02,2023-06-10,Standard,CUST-993,Customer 117,Consumer,United States,Houston,AZ,84716,Central,PROD-6688,Furniture,Accessories,Laptop,232.84,6,0.0,-6.1
+ORD-1371,2022-11-16,2022-11-24,Standard,CUST-549,Customer 13,Corporate,United States,New York,AZ,64174,West,PROD-4484,Furniture,Phones,Chair,1099.91,9,0.0,-127.12
+ORD-1372,2021-04-19,2021-04-24,Standard,CUST-372,Customer 91,Corporate,United States,Los Angeles,CA,62167,South,PROD-7630,Office Supplies,Storage,Pen,1318.95,5,0.15,235.54
+ORD-1373,2021-01-22,2021-01-31,Standard,CUST-253,Customer 182,Consumer,United States,Houston,AZ,97403,West,PROD-8390,Furniture,Tables,Monitor,1878.44,4,0.05,587.9
+ORD-1374,2022-11-22,2022-11-27,Standard,CUST-305,Customer 38,Consumer,United States,Chicago,AZ,23698,Central,PROD-2230,Office Supplies,Chairs,Binder,211.53,8,0.15,12.72
+ORD-1375,2023-01-22,2023-01-30,Standard,CUST-366,Customer 9,Home Office,United States,Chicago,TX,47289,West,PROD-4113,Office Supplies,Computers,Monitor,401.33,6,0.15,140.28
+ORD-1376,2023-08-24,2023-08-25,Standard,CUST-680,Customer 125,Consumer,United States,Los Angeles,AZ,48462,Central,PROD-8543,Furniture,Tables,Phone,280.01,9,0.0,-31.66
+ORD-1377,2021-09-30,2021-10-06,Standard,CUST-824,Customer 11,Consumer,United States,Phoenix,CA,13098,East,PROD-2246,Office Supplies,Computers,Desk,1630.24,2,0.1,-181.36
+ORD-1378,2022-04-03,2022-04-08,Standard,CUST-297,Customer 35,Home Office,United States,Phoenix,TX,63915,West,PROD-4413,Technology,Accessories,Monitor,718.57,2,0.0,145.47
+ORD-1379,2021-05-17,2021-05-23,Standard,CUST-443,Customer 130,Home Office,United States,New York,TX,14760,South,PROD-6781,Furniture,Phones,Pen,1483.77,2,0.15,445.3
+ORD-1380,2023-08-09,2023-08-15,Standard,CUST-889,Customer 133,Consumer,United States,Houston,AZ,93150,East,PROD-4576,Technology,Accessories,Pen,1884.91,7,0.15,-10.03
+ORD-1381,2023-07-26,2023-07-31,Standard,CUST-323,Customer 188,Consumer,United States,Los Angeles,IL,50333,Central,PROD-9438,Office Supplies,Storage,Printer,1943.35,6,0.0,469.63
+ORD-1382,2023-06-14,2023-06-16,Standard,CUST-140,Customer 164,Home Office,United States,Houston,TX,70960,West,PROD-4707,Office Supplies,Storage,Laptop,796.44,9,0.0,54.99
+ORD-1383,2021-11-04,2021-11-05,Standard,CUST-272,Customer 91,Consumer,United States,Los Angeles,NY,46334,Central,PROD-1207,Office Supplies,Tables,Paper,966.89,6,0.15,261.61
+ORD-1384,2022-06-20,2022-06-25,Standard,CUST-124,Customer 197,Corporate,United States,Chicago,IL,98200,South,PROD-9170,Furniture,Storage,Laptop,1375.98,3,0.0,-164.37
+ORD-1385,2023-04-12,2023-04-13,Standard,CUST-400,Customer 57,Corporate,United States,Phoenix,TX,84778,East,PROD-9315,Office Supplies,Phones,Table,301.92,5,0.1,-35.27
+ORD-1386,2022-07-14,2022-07-19,Standard,CUST-409,Customer 81,Home Office,United States,Los Angeles,CA,36093,Central,PROD-9180,Office Supplies,Tables,Chair,1812.35,6,0.1,-333.83
+ORD-1387,2021-05-18,2021-05-20,Standard,CUST-238,Customer 48,Corporate,United States,New York,TX,61435,South,PROD-2038,Office Supplies,Phones,Pen,608.55,4,0.15,-27.75
+ORD-1388,2021-03-29,2021-03-31,Standard,CUST-972,Customer 125,Corporate,United States,Houston,AZ,30452,East,PROD-6032,Office Supplies,Accessories,Paper,550.85,3,0.1,4.32
+ORD-1389,2022-05-31,2022-06-09,Standard,CUST-875,Customer 198,Corporate,United States,New York,IL,90122,East,PROD-9610,Furniture,Accessories,Printer,367.5,9,0.15,26.91
+ORD-1390,2022-08-16,2022-08-20,Standard,CUST-280,Customer 68,Home Office,United States,New York,TX,87030,Central,PROD-1470,Office Supplies,Computers,Phone,1221.1,6,0.05,347.64
+ORD-1391,2022-04-10,2022-04-13,Standard,CUST-270,Customer 190,Home Office,United States,New York,CA,68865,West,PROD-5785,Office Supplies,Accessories,Phone,639.17,2,0.0,14.37
+ORD-1392,2021-10-21,2021-10-30,Standard,CUST-532,Customer 42,Corporate,United States,New York,NY,33066,East,PROD-1939,Technology,Phones,Pen,495.93,6,0.15,11.33
+ORD-1393,2023-07-07,2023-07-09,Standard,CUST-214,Customer 198,Home Office,United States,Houston,AZ,80786,West,PROD-8230,Technology,Accessories,Paper,1279.7,4,0.1,-110.35
+ORD-1394,2022-06-16,2022-06-24,Standard,CUST-849,Customer 189,Consumer,United States,Houston,TX,60201,East,PROD-8697,Furniture,Chairs,Table,80.16,9,0.15,22.22
+ORD-1395,2021-09-24,2021-09-29,Standard,CUST-336,Customer 180,Corporate,United States,Phoenix,NY,95758,East,PROD-3911,Office Supplies,Chairs,Desk,1987.31,8,0.05,499.3
+ORD-1396,2023-09-21,2023-09-27,Standard,CUST-207,Customer 174,Home Office,United States,Phoenix,CA,63283,East,PROD-4045,Office Supplies,Storage,Monitor,1609.53,2,0.0,-238.8
+ORD-1397,2023-02-03,2023-02-08,Standard,CUST-991,Customer 6,Corporate,United States,Los Angeles,CA,49094,East,PROD-4417,Furniture,Chairs,Table,1235.15,3,0.1,493.41
+ORD-1398,2023-08-14,2023-08-16,Standard,CUST-705,Customer 74,Corporate,United States,Chicago,CA,99187,South,PROD-1231,Furniture,Computers,Phone,1892.24,3,0.15,573.19
+ORD-1399,2023-03-14,2023-03-15,Standard,CUST-749,Customer 28,Corporate,United States,Houston,IL,42796,West,PROD-2119,Furniture,Chairs,Monitor,1459.6,8,0.0,449.84
+ORD-1400,2021-06-21,2021-06-24,Standard,CUST-481,Customer 101,Home Office,United States,Houston,TX,83384,West,PROD-6421,Office Supplies,Phones,Laptop,882.45,8,0.05,14.81
